@@ -1,2 +1,2 @@
 # Repo-one
-Test repository
+Test repository for git command demonstration
